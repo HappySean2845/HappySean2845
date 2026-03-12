@@ -63,9 +63,9 @@ Hello, I am a full-stack engineer with a passion for building products and open 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HappySean2845&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=HappySean2845&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HappySean2845&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HappySean2845&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" /> <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySean2845&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
