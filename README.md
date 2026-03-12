@@ -73,6 +73,14 @@ Hello, I am a full-stack engineer with a passion for building products and open 
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HappySean2845/HappySean2845/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HappySean2845&color=58a6ff&style=flat-square)
