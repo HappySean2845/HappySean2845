@@ -73,6 +73,18 @@ Hello, I am a full-stack engineer with a passion for building products and open 
 
 ---
 
+## 🎵 Now Playing — NetEase Cloud Music
+
+<div align="center">
+
+<a href="https://github.com/HappySean2845/netease-music-widget">
+  <img src="https://netease-music-widget.vercel.app/api?id=1455444028&type=week&count=5&theme=dark" alt="Netease Music" />
+</a>
+
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
